@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R2";"R_0603_1608Metric";1;"1k";;;
+2;"R1";"R_0603_1608Metric";1;"10k";;;
+3;"Q1";"TO-92_Inline";1;"PN2222A";;;
+4;"J3";"PinSocket_1x02_P1.27mm_Vertical";1;"Output";;;
+5;"J2";"PinSocket_1x02_P1.27mm_Vertical";1;"Power";;;
+6;"J1";"PinSocket_1x02_P1.27mm_Vertical";1;"Input";;;
